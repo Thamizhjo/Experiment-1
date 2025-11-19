@@ -15,9 +15,9 @@ cases.
 5. Stop the program. 
 
 ## Program
-Name: V.AMIRTHA VARSHINI
+Name: Thamizh Kumaran
 
-Register No: 212224040021
+Register No: 212223240166
 ## a) do while:
 ~~~
 def display():
